@@ -86,7 +86,10 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg: "der.ogg", name: "Departure"}
+	{ogg: "songs/der.ogg", name: "Lullaby of Deserted Hell"},
+	{youtube: "j0PA0PX7lKo", name: "セプテットはディナーと共に"},
+	{youtube: "yHZfHPhNjXo", name: "いざオペラ座へ"},
+	{youtube: "-7VeTkLKdDw", name: "Departure"}
 ];
 
 /*Random music order?*/
