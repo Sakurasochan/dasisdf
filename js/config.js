@@ -86,7 +86,7 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg: "", name: "Ничего..."}
+	{ogg: "der.ogg", name: "Песенка :3"}
 ];
 
 /*Random music order?*/
@@ -94,7 +94,7 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 25;
+var l_musicVolume = 5;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
